@@ -1,0 +1,14 @@
+{
+  "name": "aboutmeandwarframe",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite dev",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@sveltejs/kit": "next",
+    "svelte": "^3.0.0",
+    "vite": "^5.0.0"
+  }
+}
